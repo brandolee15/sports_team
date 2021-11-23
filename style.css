@@ -1,0 +1,24 @@
+footer{
+    color: yellow;
+}
+
+header{
+    color: yellow;
+}
+h1 {
+    font-size: large;
+    font-style: oblique;
+    color: red; 
+}
+
+#1st_row{
+    color: rgba(255, 0, 0, 0.815);
+}
+
+#2nd_row{
+    color: rgba(255, 0, 0, 0.616)
+}
+
+#3rd_row{
+    color:rgba(255, 0, 0, 0.397)
+}
