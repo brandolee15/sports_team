@@ -1,24 +1,40 @@
-footer{
-    color: yellow;
+footer {
+  color: yellow;
 }
 
-header{
-    color: yellow;
+header {
+  color: yellow;
 }
 h1 {
-    font-size: large;
-    font-style: oblique;
-    color: red; 
+  font-size: large;
+  font-style: oblique;
+  color: red;
 }
 
-#1st_row{
-    color: rgba(255, 0, 0, 0.815);
+#first_row {
+  color: rgba(255, 0, 0);
 }
 
-#2nd_row{
-    color: rgba(255, 0, 0, 0.616)
+#second_row {
+  color: rgba(205, 0, 0);
 }
 
-#3rd_row{
-    color:rgba(255, 0, 0, 0.397)
+#third_row {
+  color: rgb(165, 0, 0);
+}
+
+#fourth_row {
+  color: rgba(125, 0, 0);
+}
+
+#fifth_row {
+  color: rgba(85, 0, 0);
+}
+
+#sxth_row {
+  color: rgba(255, 0, 0);
+}
+
+body{
+    color-scheme: ;
 }
